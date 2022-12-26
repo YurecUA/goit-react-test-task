@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "user": "Daniel Ebersole",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://us.v-cdn.net/5019960/uploads/userpics/468/p1NMCBY2PV254.jpeg"
+  },
+  {
+    "id": 2,
+    "user": "Rick Waalders",
+    "tweets": 1000,
+    "followers": 35000,
+    "avatar": "https://mystickermania.com/cdn/stickers/109-512x512.png"
+  },
+  {
+    "id": 3,
+    "user": "Nadir Balcikli",
+    "tweets": 2000,
+    "followers": 45000,
+    "avatar": "https://i.pinimg.com/originals/81/f6/11/81f6111063bdd6242248a941249cb650.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Paul Jarvis",
+    "tweets": 3000,
+    "followers": 55000,
+    "avatar": "https://render.fineartamerica.com/images/rendered/default/flat/round-beach-towel/images/artworkimages/medium/1/yoda-portrait-olga-shvartsur-transparent.png?&targetx=136&targety=-3&imagewidth=510&imageheight=788&modelwidth=788&modelheight=788&backgroundcolor=FEF5EC&orientation=0"
+  },
+  {
+    "id": 5,
+    "user": "Matteo Minelli",
+    "tweets": 4000,
+    "followers": 65000,
+    "avatar": "https://shutniks.com/wp-content/uploads/2019/12/v1-babay29.png"
+  },
+  {
+    "id": 6,
+    "user": "Vadim Sherbakov",
+    "tweets": 5000,
+    "followers": 75000,
+    "avatar": "https://shutniks.com/wp-content/uploads/2019/12/0aeb27b230deae824f3d1bce090bc2e9.png"
+  },
+  {
+    "id": 7,
+    "user": "Mark Doda",
+    "tweets": 6000,
+    "followers": 85000,
+    "avatar": "https://shutniks.com/wp-content/uploads/2019/12/1561878096_2.jpg"
+  },
+  {
+    "id": 8,
+    "user": "Anton Sulsky",
+    "tweets": 7000,
+    "followers": 95000,
+    "avatar": "https://hostenko.com/wpcafe/wp-content/uploads/rndavatar.png"
+  },
+  {
+    "id": 9,
+    "user": "Charlie Foster",
+    "tweets": 8000,
+    "followers": 105000,
+    "avatar": "https://shutniks.com/wp-content/uploads/2019/12/41NP2h3kNML.jpg"
+  }
+]
