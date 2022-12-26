@@ -1,0 +1,13 @@
+.userInfo {
+  text-align: center;
+}
+
+.userInfo p {
+  text-transform: uppercase;
+  color: #ebd8ff;
+  margin: 0 0 20px 0;
+}
+
+.userInfo p:nth-child(2) {
+  margin-bottom: 32px;
+}
